@@ -1,5 +1,6 @@
 Hi 👋 I'm Tugcan 
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/0fa129de-e85b-4f1c-b4f3-94ec9e7a3052" />
 
 
 * Android Development: Jetpack Compose, XML Layouts, Android SDK.
